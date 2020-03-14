@@ -4,7 +4,7 @@ This is the code written in Altimetrik's workshop related to [NTHSA Vehicle Publ
 ### Running:
 - Run as a SpringBoot app (starts embedded tomcat server on port 8080). Optionally build and deploy generated war.
 - Hit **http://<your_server>:8080/altimetrik/**
-- For basic swagger documentation you can visit: **http://<yoursever>:8080/altimetrik/swagger-ui.html**
+- For basic swagger documentation you can visit: **http://<your_server>:8080/altimetrik/swagger-ui.html**
 
 ### Basic info
 This projects aims to showcase working with RESTful APIs from a Java Fullstack developer perspective.
